@@ -6,6 +6,8 @@
 trigger:
 - staging
 
+pr: none
+
 pool:
   vmImage: ubuntu-latest
 
